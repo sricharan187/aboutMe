@@ -1,0 +1,19 @@
+#body {
+    background:#ffcccc;
+    color:black;
+    font-family: 'Roboto';
+   }
+h1 {
+    text-align: center;
+    color:red;
+}
+h4 {
+     text-align:center;
+     color:blue;
+     margin-left: 75;
+     margin-right: 75;
+}
+h2 {
+     text-align:center;
+     color :green;
+}
