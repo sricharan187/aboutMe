@@ -12,8 +12,29 @@ h4 {
      color:blue;
      margin-left: 75;
      margin-right: 75;
+     margin-top: 1000;
 }
-h2 {
+h1 {
      text-align:center;
      color :green;
 }
+
+.my-card-tw{
+     height: 100%;
+     width: 100%;
+     background-repeat: no-repeat;
+     background-position: center;
+     background-size: cover;
+     background-image: ("background.png");
+     border: 10px solid rgb(244, 248, 1);
+     background-color: yellow ;
+ }
+
+ .px-6 {
+     background-color: rgb(223, 223, 223);
+     text-align: center;
+ }
+
+ .content-box1 {
+      text-align: center;
+ }
